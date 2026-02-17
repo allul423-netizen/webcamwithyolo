@@ -6,8 +6,8 @@ yt-dlp==2024.12.13
 ffmpeg-python==0.2.0
 
 # Web 界面
-streamlit==1.28.2
 
+ 
 # AI 模型调用
 openai==1.3.5
 python-dotenv==1.0.0

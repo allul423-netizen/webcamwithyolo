@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ### 3. 运行
 
-
+（本地生成测试视频的方案已终止）
 
 ## 技术栈
 - Python 3.10
